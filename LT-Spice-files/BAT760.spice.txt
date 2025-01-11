@@ -1,3 +1,0 @@
-*SRC=BAT760;DI_BAT760;Diodes;Si;  30.0V  1.00A  10.0ns   Diodes Inc. Schottky
-.MODEL DI_BAT760 D  ( IS=10.6u RS=49.9m BV=30.0 IBV=50.0u
-+ CJO=49.3p  M=0.333 N=1.35 TT=14.4n )
